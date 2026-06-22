@@ -1,0 +1,9 @@
+from .user_router import router as user_router
+from .diagnosis_router import router as diagnosis_router
+from .knowledge_router import router as knowledge_router
+from .chat_router import router as chat_router
+from .device_router import router as device_router
+from .maintenance_router import router as maintenance_router
+from .issue_router import router as issue_router
+from .system_router import router as system_router
+from .model_router import router as model_router
